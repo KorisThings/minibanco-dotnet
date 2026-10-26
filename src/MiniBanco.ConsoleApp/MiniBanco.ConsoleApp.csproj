@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <!-- Usings explícitos em cada arquivo: garante que System.Linq não é importado (RF09). -->
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>MiniBanco.ConsoleApp</RootNamespace>
+  </PropertyGroup>
+
+</Project>

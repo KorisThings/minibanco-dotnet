@@ -1,0 +1,10 @@
+## Saídas de build do .NET
+bin/
+obj/
+
+## IDEs
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo

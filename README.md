@@ -4,9 +4,8 @@ Mini-Projeto Avaliativo — **Desenvolvedor Back-End [.NET] [T2] — SENAI — M
 
 | | |
 |---|---|
-| **Aluno(a)** | _seu nome aqui_ |
-| **Turma** | _sua turma aqui_ |
-| **Vídeo de apresentação** | _cole aqui o link do vídeo (YouTube não listado ou Google Drive)_ |
+| **Aluno** | Ruan da Rosa Correia |
+| **Turma** | QA DBEN 2026/1 5 |
 
 ---
 
@@ -29,7 +28,7 @@ Aplicação de console em C# que simula o motor de processamento de um banco dig
 | **2** | Registrar movimentação (depósito ou saque) em uma conta existente |
 | **3** | Aplicar fechamento mensal em todas as contas (polimorfismo) |
 | **4** | Exibir relatório detalhado de todas as contas |
-| **5** | Carregar contas de demonstração (atalho para testes e para o vídeo) |
+| **5** | Carregar contas de demonstração (atalho para testes) |
 | **0** | Sair |
 
 O menu roda dentro de um laço `while` e trata todas as exceções, então o programa **não fecha** por causa de entrada inválida.
@@ -60,7 +59,7 @@ minibanco-dotnet/
 **Pré-requisito:** [.NET SDK 8.0](https://dotnet.microsoft.com/download/dotnet/8.0) ou superior.
 
 ```bash
-git clone https://github.com/SEU-USUARIO/minibanco-dotnet.git
+git clone https://github.com/KorisThings/minibanco-dotnet.git
 cd minibanco-dotnet/src/MiniBanco.ConsoleApp
 dotnet run
 ```

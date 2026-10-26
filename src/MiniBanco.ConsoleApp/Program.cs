@@ -243,7 +243,7 @@ namespace MiniBanco.ConsoleApp
         }
 
         // ---------------------------------------------------------------
-        // 5 - Dados de demonstração (facilita testes e a gravação do vídeo)
+        // 5 - Dados de demonstração (facilita os testes)
         // ---------------------------------------------------------------
         private static void CarregarContasDemonstracao()
         {
